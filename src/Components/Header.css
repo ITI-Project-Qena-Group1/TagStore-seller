@@ -1,0 +1,29 @@
+.navItem{
+    text-decoration: none;
+    display: inline-block !important;
+    transition: 0.4s ease;
+    margin: 0 12px;
+    color: #ffaa00;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.navItem:hover{
+    transform: scale(1.1) !important;
+    color: #cc7700;
+}
+
+.register{
+    background-color: #ffaa00;
+    font-size: 15px;
+    font-weight: 200;
+    padding: 12px 30px;
+    color: #fff;
+    transition: 0.4s ease;
+}
+
+.register:hover{
+    background-color: #fcb900;
+    color: #fff;
+}
+

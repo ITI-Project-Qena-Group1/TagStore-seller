@@ -1,0 +1,49 @@
+.registerHome{
+    background-color: #ffaa00;
+    color: #fff;
+    transition: 0.7s ease;
+    padding: 12px 30px;
+}
+.registerHome:hover{
+    background-color: #cc7700;
+    color: #fff;
+}
+
+.loginHome{
+    background-color: #717171;
+    color: #fff;
+    transition: 0.7s ease;
+    padding: 12px 25px;
+}
+
+.loginHome:hover{
+    background-color: #515151;
+    color: #fff;
+}
+
+.backg{
+    background-image: url(../Assets/svgviewer-output.svg);
+}
+
+.filter-orange{
+    filter: invert(100%);
+}
+
+.bgImg{
+    z-index: -10000;
+    margin-top: -370px;
+    height: 500px;
+    transform: rotate(-180deg);
+}
+
+.bgSVG{
+    transform: rotate(-180deg);
+    /* filter: invert(.75); */
+}
+
+.bgImg2{
+    z-index: -10000;
+    /* margin-top: -440px; */
+    /* height: 500px; */
+    transform: rotate(-180deg);
+}
